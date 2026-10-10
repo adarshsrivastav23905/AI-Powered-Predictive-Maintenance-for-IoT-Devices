@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.DS_Store
+models/*.pkl
+outputs/*.txt
+outputs/latest_prediction.json
+images/*.png
