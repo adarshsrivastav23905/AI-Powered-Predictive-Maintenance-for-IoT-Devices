@@ -17,7 +17,7 @@
 <p>
   A practical AI and industrial analytics project that uses synthetic IoT sensor data to detect failure risk, reduce downtime, and support proactive maintenance strategies.
 </p>
-
+    
 </div>
 
 ## Overview
