@@ -55,13 +55,13 @@ The pipeline generates or loads a synthetic dataset, cleans the records, enginee
 - Unit tests for local LLM assistant behavior
 
 ---
-
+   
 ## 🏗️ System Architecture
 
 ```text
 Synthetic IoT Sensor Data
           │
-          ▼
+          ▼     
 Data Loading and Cleaning
           │
           ▼
